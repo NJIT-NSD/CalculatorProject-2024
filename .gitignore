@@ -1,0 +1,4 @@
+*.sw*
+.coverage
+.pytest_cach
+*pycache
